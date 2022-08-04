@@ -1,3 +1,5 @@
+<img src="img/gus.jpg" width="400" height="400">
+
 ## Tanaphat Boonsong (Focus)
 
 Thailand , Born in 2003
