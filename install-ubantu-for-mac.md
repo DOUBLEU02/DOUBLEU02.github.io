@@ -119,6 +119,9 @@ The Ubuntu 22.04 installation will start now.
 
 ### Step 8 : Finish
 
+![image](https://user-images.githubusercontent.com/85865681/182917683-147b02ba-dea0-4c2f-991b-67a2b7e825bb.png)3
+
+![image](https://user-images.githubusercontent.com/85865681/182917760-5b5b302e-dd1f-466f-a904-8f669ea8f769.png)
 
 
 Well, that’s the end of our guide. I hope this article will help you install Ubuntu 22.04 on Vmware Workstation pro in Windows 10 for Macbook Pro 2013.
