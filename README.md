@@ -1,4 +1,4 @@
-<img src="img/gus.jpg" width="400" height="400">
+<img src="img/gus.jpg" width="400" height="600">
 
 ## Tanaphat Boonsong (Focus)
 
