@@ -8,8 +8,9 @@ I'm study Computer Engineering (Cpr.E) at King mongkut's university of technolog
 
 **Contact Me :**
 
-:email: : s6401012620030@email.kmutnb.ac.th
+:email: s6401012620030@email.kmutnb.ac.th
 
-:telephone_receiver: : (+66) 924194356
+:telephone_receiver: (+66) 924194356
 
 **My Blog :** 
+* [How to install Ubuntu 22.04 on Vmware Workstation in Widows 10 for Macbook Pro 2013](install-ubantu-for-mac.md)
